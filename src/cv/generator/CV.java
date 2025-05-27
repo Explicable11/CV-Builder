@@ -76,7 +76,7 @@ Connection conn=null;
 ResultSet rs=null;
 PreparedStatement pst=null;
     /**
-     * Creates new form Staff_details
+     * creates new form Staff_details
      */
     public CV() {
         initComponents();
