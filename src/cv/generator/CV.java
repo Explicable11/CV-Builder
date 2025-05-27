@@ -1,7 +1,7 @@
 /*
  * to change this license header, choose License Headers in Project Properties.
  * to change this template file, choose Tools | Templates
- * And Open the template in the editor.
+ * and Open the template in the editor.
  */
 
 package cv.generator;
